@@ -1,33 +1,33 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://bvabhijeeth1999.github.io',
-  title: 'VA',
+  homepage: 'https://brssuprajeeth.github.io',
+  title: 'RSS',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Abhijeeth',
-  role: 'MS CS at UW-Madison | Ex-Oracle | Ex-Amazon',
+  name: 'Suprajeeth',
+  role: 'SDE at Amazon | MS DS at Northeastern University | Ex-Accenture',
   description:
     'Experienced software developer interested in solving complex problems and turning ideas into scalable solutions.',
   resume:
     'https://drive.google.com/file/d/16TtmWm6Ho-3NUwiiTXNHWXWG2eFnhnJm/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/venkata-abhijeeth-balabhadruni-153b5b169/',
-    github: 'https://github.com/bvabhijeeth1999',
+    github: 'https://github.com/brssuprajeeth',
   },
 }
 
 const education = [
   {
-    name: 'University of Wisconsin Madison',
-    description: 'Masters in Computer Science',
-    stack: ['Sept 2023 - Dec 2024', 'GPA: 4.0/4.0'],
+    name: 'Northeastern University',
+    description: 'M.S in Data Science',
+    stack: ['Jan 2021 - May 2022', 'GPA: 3.46/4.0'],
   },
   {
-    name: 'BITS Pilani',
-    description: 'B.E in Computer Science + Minor in Data Science',
-    stack: ['Aug 2017 - Jun 2021', 'GPA: 8.75/10.0'],
+    name: 'SRM University',
+    description: 'B.Tech in Computer Science and Engineering ',
+    stack: ['July 2015 - May 2019', 'GPA: 7.98/10.0'],
   },
 ]
 
